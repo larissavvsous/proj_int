@@ -3,12 +3,11 @@ Repositório destinado ao desenvolvimento de trabalhos relacionados a disciplina
 
 
 <h1 align="center">
-  <br>
-<a href="https://imagem.app/image/o2gWfG"><img src="https://a.imagem.app/o2gWfG.md.png" alt="o2gWfG.png" width="300" height="300" border="0" /></a>
-  <br>
-  Projeto Integrador I
-  <br>
-</h1>
+        <br>
+        <br>
+        Projeto Integrador I
+        <br>
+    </h1>
 
 Esse projeto, com o tema "Análise de sentimentos em comentários de supermercados de Itapajé: entendendo a opinião dos consumidores" consiste na realização uma análise de sentimento (NLP - processamento de linguagem natural) em avaliações e comentários referentes a três principais supermercados da cidade local, são eles: Deirton, Para Ty e Menor Preço. 
 
