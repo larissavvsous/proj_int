@@ -18,6 +18,23 @@ Esse projeto, com o tema "Análise de sentimentos em comentários de supermercad
 </p>
 
 
+## O dataset contém as seguintes colunas:
+* Nome do cliente
+* Comentário
+* Quantidade de curtida naquele comentário
+* Nota (estrela) 
+* Período
+* Nível do comentarista (local guide)
+* Quantidade de fotos da pessoa no geral
+* Quantidade de comentários da pessoa no geral
+* Nome do supermercado
+* Endereço do supermercado
+* Retorno do supermercado diante da crítica/elogio
+
+Onde:
+* Cada instância é um comentário de um cliente referente à um determinado supermercado
+* Possui valores ausentes
+
 ## Ferramentas utilizadas
 
 Durante a disciplina de Projeto Integrador I, utilizamos as seguintes ferramentas:
@@ -33,5 +50,5 @@ Durante a disciplina de Projeto Integrador I, utilizamos as seguintes ferramenta
 
 ## Projeto
 
-O projeto final feito ao longo do semestre foi primeiramente criar um banco de dados completo e tratado, juntando os três supermercados. E uma análise exploratória. Daremos continuidade em Projeto Integrador II.
+O projeto final feito ao longo do semestre foi primeiramente criar um banco de dados completo e tratado, juntando os três supermercados e uma análise descritiva/exploratória. Daremos continuidade em Projeto Integrador II e III.
 
